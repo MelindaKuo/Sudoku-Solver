@@ -12,6 +12,7 @@ public class Solver {
                          {0,0,5,0,0,0,0,0,0}};
         solve(board);
         System.out.println(board);
+        //test
     }
 
 
